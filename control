@@ -1,0 +1,9 @@
+Package: com.p2kdev.gmailalwayslighttheme
+Name: GmailAlwaysLightTheme
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Show Gmail Emails in Light Theme always!
+Maintainer: P2KDev <p2kdev@gmail.com>
+Author: P2KDev <p2kdev@gmail.com>
+Section: Tweaks
